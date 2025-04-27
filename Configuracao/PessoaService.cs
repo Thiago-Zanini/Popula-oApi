@@ -184,7 +184,7 @@ namespace Populacao.Configuracao
             catch (Exception ex)
             {
                 logger.LogError(ex.Message);
-                return "Adicionado com sucesso";
+                return "Erro ao Adicionar " + ex.Message;
             }
         }
     }

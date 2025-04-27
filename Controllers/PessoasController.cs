@@ -46,6 +46,7 @@ namespace Populacao.Controllers
                 var resultado = await pessoaService.Add(add);
 
                 if(resultado.Contains("não encontrado")) return NotFound(resultado);
+                if(resultado.Contains("Erro")) return BadRequest(resultado);
 
                 RemoveCache();
 

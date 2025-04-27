@@ -139,3 +139,4 @@ C:\Users\Thiago\source\repos\Populacao\Populacao\obj\Debug\net9.0\Populacao.genr
 C:\Users\Thiago\source\repos\Populacao\Populacao\obj\Debug\net9.0\ref\Populacao.dll
 C:\Users\Thiago\source\repos\Populacao\Populacao\bin\Debug\net9.0\System.Threading.RateLimiting.dll
 C:\Users\Thiago\source\repos\Populacao\Populacao\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Thiago\source\repos\Populacao\Populacao\obj\Debug\net9.0\Populacao.sourcelink.json
